@@ -1,4 +1,4 @@
-let sakshi = [ '*', '*', '*', '*', '*' ];
+let sakshi = [ '*', '*', '*', '*', '*', '*' ];
 
 for (let i = 0; i < sakshi.length; i++) {
     // const element = sakshi[i];
